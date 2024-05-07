@@ -1,0 +1,4 @@
+cryptography
+tabulate
+pyfiglet
+pytest
